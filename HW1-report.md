@@ -43,7 +43,7 @@ If you've ever wondered, *how much wood could a woodchuck chuck if a woodchuck c
 
 ### References
 
-Insert the list of any references you used here. *If you did not use any references for this section, you may remove this subsection.*
+Wikipedia article "How much wood would a woochuch chuck?" <https://en.wikipedia.org/wiki/How_much_wood_would_a_woodchuck_chuck%3F>
 
 ## Tableau
 
@@ -69,11 +69,7 @@ Insert the list of any references you used here. *If you did not use any referen
 
 ### Q3 - Outer Parenthesis
 
-Insert your answer and explanation here
-
-### References
-
-Insert the list of any references you used here. *If you did not use any references for this section, you may remove this subsection.*
+SyntaxError occured. The code was not complete, saying the error was on line 3 after so.Agg() needing a closing parenthesis. 
 
 ## Observable and Vega-Lite
 
