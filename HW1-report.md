@@ -55,21 +55,17 @@ Insert the list of any references you used here. *If you did not use any referen
 
 ### Q1 - URL of Google Colab Notebook
 
-Insert your answer and explanation here
-
-### References
-
-Insert the list of any references you used here. *If you did not use any references for this section, you may remove this subsection.*
+<https://colab.research.google.com/drive/1FM_LquL4BSJkOzuWKpzl1uzW7jJ-Xak5?usp=sharing>
 
 ## Python/Seaborn
 
 ### Q1 - First Penguin Image
 
-Insert your answer and explanation here
+![Penguin 1](assets/img/penguins1.png)
 
 ### Q2 - Second Penguin Image
 
-Insert your answer and explanation here
+![Penguin 2](assets/img/penguins2.png)
 
 ### Q3 - Outer Parenthesis
 
