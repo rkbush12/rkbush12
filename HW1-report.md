@@ -39,7 +39,7 @@ If you've ever wondered, *how much wood could a woodchuck chuck if a woodchuck c
 
 ### Q3 - Animal Image
 
-![A Woodchuck](assets\img\woodchuck.jpg)
+A Woodchuck(assets/img/woodchuck.jpg)
 
 ### References
 
