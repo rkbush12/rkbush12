@@ -8,36 +8,38 @@ Due: September 8, 2024
 
 ### Q1 - URL of GitHub Repo
 
-Insert your answer and explanation here
+(https://github.com/rkbush12/kbush12-625.git)
 
 ### Q2 - Pull Command
 
-Insert your answer and explanation here
+Git Pull command brings remote changes to the locl repository
 
 ### Q3 - Local Commits
 
-Insert your answer and explanation here
+If I committed a change on my local machine and do not see a change on Github.com, then I may have forgoteen to push my changes to the remote repository.
 
 ### References
 
-*Each section of your report must list the webpages and URLs that you consulted while completing the assignment. Replace the items below with the references you consulted - these are just examples.*
-
-* Trellis Plot Examples JSON/API Vega-Lite, <https://observablehq.com/@oducs-vis/trellis-plot-examples-in-vega-lite>
-* Math for journalists, <https://observablehq.com/@nshiab/math-for-journalists>
+git-guides git-pull, <https://github.com/git-guides/git-pull>
+Why are my contributions not showing up on my profile?, <https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile>
 
 ## Markdown
 
 ### Q1 - Bulleted List
 
-Insert your answer and explanation here
+- Waffels
+- Peanut butter
+- Syrup
+
+A numbered list uses numbers to indicate a specific order, suggesting a ranking among the items.
 
 ### Q2 - Markdown Paragraph
 
-Insert your answer and explanation here
+If you've ever wondered, *how much wood could a woodchuck chuck if a woodchuck could chuck wood*, the answer is both amusing and intriguing. **A woodchuck** could theoretically chuck around ***700 pounds*** of wood. For more details, check out this [Wikipedia article](https://en.wikipedia.org/wiki/How_much_wood_would_a_woodchuck_chuck%3F). In `code`, it might look like this: `woodchuck_chuck(wood)`.
 
 ### Q3 - Animal Image
 
-Insert your answer and explanation here
+![A Woodchuck](assets\img\woodchuck.jpg)
 
 ### References
 
