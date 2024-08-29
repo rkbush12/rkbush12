@@ -20,8 +20,8 @@ If I committed a change on my local machine and do not see a change on Github.co
 
 ### References
 
-git-guides git-pull, <https://github.com/git-guides/git-pull>
-Why are my contributions not showing up on my profile?, <https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile>
+git-guides git-pull, <https://github.com/git-guides/git-pull>  
+Why are my contributions not showing up on my profile?, <https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile>  
 
 ## Markdown
 
