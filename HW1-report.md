@@ -49,11 +49,7 @@ Insert the list of any references you used here. *If you did not use any referen
 
 ### Q1 - Region Other Than the South
 
-Insert your answer and explanation here
-
-### References
-
-Insert the list of any references you used here. *If you did not use any references for this section, you may remove this subsection.*
+![Sales in the East](assets/img/SalesintheEast.png)
 
 ## Google Colab
 
