@@ -43,7 +43,7 @@ If you've ever wondered, *how much wood could a woodchuck chuck if a woodchuck c
 
 ### References
 
-Wikipedia article "How much wood would a woochuch chuck?" <https://en.wikipedia.org/wiki/How_much_wood_would_a_woodchuck_chuck%3F>
+Wikipedia article "How much wood would a woochuck chuck?" <https://en.wikipedia.org/wiki/How_much_wood_would_a_woodchuck_chuck%3F>
 
 ## Tableau
 
