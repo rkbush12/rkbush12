@@ -75,20 +75,17 @@ SyntaxError occured. The code was not complete, saying the error was on line 3 a
 
 ### Q1 - markCircle to markSquare
 
-Insert your answer and explanation here
+On the scatterplot the data points change from circle to squares.
 
 ### Q2 - markCircle to markPoint
 
-Insert your answer and explanation here
+On the scatterplot the data points changes from a filled circles to a unfilled circles.
 
 ### Q3 - Swap X and Y Axes on Scatterplot
 
-Insert your answer and explanation here
+The axes with y becoming miles_per_gallon and x being horsepower.
 
 ### Q4 - Remove fieldN(Origin)
 
-Insert your answer and explanation here
+The data point tooltip with hovering over a data point goes away.
 
-### References
-
-Insert the list of any references you used here. *If you did not use any references for this section, you may remove this subsection.*
