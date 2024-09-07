@@ -8,7 +8,7 @@ Due: September 8, 2024
 
 ### Q1 - URL of GitHub Repo
 
-(https://github.com/rkbush12/kbush12-625.git)
+([HW1-report.md](https://github.com/rkbush12/rkbush12/edit/main/HW1-report.md))
 
 ### Q2 - Pull Command
 
