@@ -12,11 +12,11 @@ Due: September 8, 2024
 
 ### Q2 - Pull Command
 
-Git Pull command brings remote changes to the locl repository
+Git Pull command brings remote changes to the local repository
 
 ### Q3 - Local Commits
 
-If I committed a change on my local machine and do not see a change on Github.com, then I may have forgoteen to push my changes to the remote repository.
+If I committed a change on my local machine and do not see a change on Github.com, then I may have forgotten to push my changes to the remote repository.
 
 ### References
 
