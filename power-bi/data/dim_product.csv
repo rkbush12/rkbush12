@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,SubCategory,UnitCost,UnitPrice
+P001,Aurora Smartphone X,Electronics,Phones,320.00,699.00
+P002,Aurora Smartphone SE,Electronics,Phones,180.00,399.00
+P003,Nimbus Ultrabook 14,Electronics,Laptops,640.00,1199.00
+P004,Nimbus Pro 16,Electronics,Laptops,980.00,1899.00
+P005,EchoBuds Wireless,Electronics,Audio,28.00,89.00
+P006,EchoBuds Pro ANC,Electronics,Audio,55.00,179.00
+P007,PulseWatch Fit,Electronics,Wearables,42.00,129.00
+P008,PulseWatch Series 5,Electronics,Wearables,95.00,299.00
+P009,BrewMaster Coffee Maker,Home,Kitchen,34.00,99.00
+P010,ChopPro Blender,Home,Kitchen,22.00,69.00
+P011,LumenDesk Lamp,Home,Lighting,12.00,39.00
+P012,LumenSmart Bulb 4-pack,Home,Lighting,14.00,49.00
+P013,ErgoChair Mesh,Home,Furniture,110.00,329.00
+P014,StandUp Desk 48,Home,Furniture,180.00,499.00
+P015,TrailRunner Sneakers,Apparel,Footwear,38.00,119.00
+P016,Glide Court Shoes,Apparel,Footwear,30.00,95.00
+P017,Summit Down Jacket,Apparel,Outerwear,65.00,199.00
+P018,RainShell Windbreaker,Apparel,Outerwear,28.00,89.00
+P019,Everyday Backpack,Apparel,Accessories,24.00,79.00
+P020,Canvas Tote,Apparel,Accessories,8.00,29.00

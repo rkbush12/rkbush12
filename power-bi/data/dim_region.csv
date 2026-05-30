@@ -1,0 +1,9 @@
+RegionID,Region,Country,City,Manager
+R01,West,USA,San Francisco,Dana Whitfield
+R02,West,USA,Seattle,Dana Whitfield
+R03,East,USA,New York,Marcus Lee
+R04,East,USA,Boston,Marcus Lee
+R05,Central,USA,Chicago,Priya Nair
+R06,Central,USA,Dallas,Priya Nair
+R07,Canada,Canada,Toronto,Olivia Tremblay
+R08,Canada,Canada,Vancouver,Olivia Tremblay

@@ -1,0 +1,246 @@
+{
+  "name": "Aurora Sales",
+  "$schema": "https://raw.githubusercontent.com/microsoft/powerbi-desktop-samples/main/Report%20Theme%20JSON%20Schema/reportThemeSchema-2.143.json",
+  "dataColors": [
+    "#2E5FE8",
+    "#15B8A6",
+    "#F59E0B",
+    "#E04F8A",
+    "#7C5CFC",
+    "#22B07D",
+    "#FF7A45",
+    "#3DB8E8",
+    "#9C6BFF",
+    "#C2410C"
+  ],
+  "good": "#22B07D",
+  "neutral": "#F59E0B",
+  "bad": "#E5484D",
+  "maximum": "#2E5FE8",
+  "center": "#9AA4B2",
+  "minimum": "#E6ECF7",
+  "null": "#D0D5DD",
+  "foreground": "#1F2733",
+  "foregroundNeutralSecondary": "#5B6573",
+  "foregroundNeutralTertiary": "#9AA4B2",
+  "background": "#FFFFFF",
+  "backgroundLight": "#F4F7FB",
+  "backgroundNeutral": "#E6ECF7",
+  "tableAccent": "#2E5FE8",
+  "hyperlink": "#2E5FE8",
+  "visitedHyperlink": "#7C5CFC",
+  "textClasses": {
+    "title": {
+      "color": "#1F2733",
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 16
+    },
+    "header": {
+      "color": "#1F2733",
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12
+    },
+    "label": {
+      "color": "#5B6573",
+      "fontFace": "Segoe UI",
+      "fontSize": 10
+    },
+    "callout": {
+      "color": "#2E5FE8",
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 36
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#E6ECF7" } },
+            "radius": 12
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#1F2733" } },
+            "position": "Outer",
+            "preset": "Custom",
+            "shadowSpread": 2,
+            "shadowBlur": 14,
+            "angle": 90,
+            "shadowDistance": 3,
+            "transparency": 92
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#1F2733" } },
+            "background": { "solid": { "color": "#FFFFFF" } },
+            "alignment": "left",
+            "fontSize": 13,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "visualHeader": [
+          {
+            "show": true,
+            "transparency": 0,
+            "background": { "solid": { "color": "#FFFFFF" } },
+            "border": { "solid": { "color": "#FFFFFF" } }
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#F4F7FB" } },
+            "transparency": 0
+          }
+        ],
+        "outspace": [
+          {
+            "color": { "solid": { "color": "#F4F7FB" } },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#2E5FE8" } },
+            "fontSize": 32,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "categoryLabels": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#5B6573" } },
+            "fontSize": 11,
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    },
+    "cardVisual": {
+      "*": {
+        "calloutValue": [
+          {
+            "fontSize": 32,
+            "fontFamily": "Segoe UI Semibold",
+            "color": { "solid": { "color": "#2E5FE8" } }
+          }
+        ]
+      }
+    },
+    "kpi": {
+      "*": {
+        "trendline": [ { "show": true } ],
+        "indicator": [
+          { "color": { "solid": { "color": "#1F2733" } } }
+        ]
+      }
+    },
+    "columnChart": {
+      "*": {
+        "dataPoint": [
+          { "fill": { "solid": { "color": "#2E5FE8" } } }
+        ],
+        "valueAxis": [
+          {
+            "gridlineShow": true,
+            "gridlineColor": { "solid": { "color": "#E6ECF7" } },
+            "gridlineThickness": 1,
+            "gridlineStyle": "solid"
+          }
+        ]
+      }
+    },
+    "barChart": {
+      "*": {
+        "dataPoint": [
+          { "fill": { "solid": { "color": "#2E5FE8" } } }
+        ]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "lineStyles": [
+          { "strokeWidth": 3, "lineStyle": "solid", "showMarker": false }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "header": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#1F2733" } },
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 11
+          }
+        ],
+        "items": [
+          {
+            "fontColor": { "solid": { "color": "#5B6573" } },
+            "fontSize": 10
+          }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "grid": [
+          {
+            "gridVertical": false,
+            "gridHorizontal": true,
+            "gridHorizontalColor": { "solid": { "color": "#E6ECF7" } },
+            "rowPadding": 6,
+            "outlineColor": { "solid": { "color": "#E6ECF7" } }
+          }
+        ],
+        "columnHeaders": [
+          {
+            "fontColor": { "solid": { "color": "#1F2733" } },
+            "backColor": { "solid": { "color": "#F4F7FB" } },
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 10
+          }
+        ],
+        "values": [
+          {
+            "fontColorPrimary": { "solid": { "color": "#1F2733" } },
+            "backColorPrimary": { "solid": { "color": "#FFFFFF" } },
+            "backColorSecondary": { "solid": { "color": "#F8FAFD" } },
+            "fontSize": 10
+          }
+        ]
+      }
+    },
+    "pivotTable": {
+      "*": {
+        "columnHeaders": [
+          {
+            "fontColor": { "solid": { "color": "#1F2733" } },
+            "backColor": { "solid": { "color": "#F4F7FB" } },
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ]
+      }
+    }
+  }
+}

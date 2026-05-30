@@ -1,0 +1,181 @@
+CustomerID,CustomerName,Segment
+C0001,Sage Davis,Corporate
+C0002,Riley Davis,Consumer
+C0003,Harper Reed,Consumer
+C0004,Skyler Patel,Small Business
+C0005,Casey Anderson,Corporate
+C0006,Drew Smith,Small Business
+C0007,Reese Murphy,Consumer
+C0008,Devin Reed,Consumer
+C0009,Taylor Murphy,Consumer
+C0010,Finley Nguyen,Consumer
+C0011,Riley Lopez,Corporate
+C0012,Kai Garcia,Corporate
+C0013,Kai Lopez,Small Business
+C0014,Logan Young,Consumer
+C0015,Quinn Garcia,Corporate
+C0016,Drew Young,Consumer
+C0017,Kai Chen,Corporate
+C0018,Hayden Davis,Small Business
+C0019,Kai Davis,Corporate
+C0020,Skyler Wilson,Corporate
+C0021,Harper Wilson,Consumer
+C0022,Kai Wright,Consumer
+C0023,Finley Smith,Consumer
+C0024,Devin Wilson,Consumer
+C0025,Morgan Garcia,Consumer
+C0026,Casey Garcia,Consumer
+C0027,Jordan Hall,Consumer
+C0028,Hayden Kim,Consumer
+C0029,Casey Brown,Consumer
+C0030,Harper Brown,Consumer
+C0031,Quinn Martinez,Consumer
+C0032,Drew Anderson,Consumer
+C0033,Finley Anderson,Corporate
+C0034,Avery Patel,Consumer
+C0035,Hayden Smith,Small Business
+C0036,Taylor Chen,Small Business
+C0037,Reese Kim,Consumer
+C0038,Skyler Lopez,Consumer
+C0039,Skyler Young,Corporate
+C0040,Kai Patel,Corporate
+C0041,Skyler Martinez,Small Business
+C0042,Morgan Chen,Corporate
+C0043,Avery Murphy,Consumer
+C0044,Taylor Lopez,Consumer
+C0045,Morgan Patel,Consumer
+C0046,Reese Lopez,Corporate
+C0047,Parker Wright,Consumer
+C0048,Casey Walker,Corporate
+C0049,Harper Kim,Corporate
+C0050,Avery Davis,Small Business
+C0051,Jordan Chen,Consumer
+C0052,Reese Young,Corporate
+C0053,Logan Chen,Consumer
+C0054,Riley Reed,Consumer
+C0055,Riley Smith,Consumer
+C0056,Finley Martinez,Corporate
+C0057,Devin Garcia,Consumer
+C0058,Quinn Johnson,Consumer
+C0059,Drew Hall,Consumer
+C0060,Kai Martinez,Consumer
+C0061,Morgan Murphy,Consumer
+C0062,Morgan Khan,Corporate
+C0063,Devin Anderson,Corporate
+C0064,Drew Brown,Consumer
+C0065,Taylor Young,Consumer
+C0066,Parker Chen,Small Business
+C0067,Hayden Murphy,Consumer
+C0068,Logan Anderson,Consumer
+C0069,Rowan Kim,Corporate
+C0070,Finley Lopez,Consumer
+C0071,Casey Murphy,Consumer
+C0072,Logan Wright,Consumer
+C0073,Kai Anderson,Consumer
+C0074,Sage Khan,Consumer
+C0075,Harper Wright,Corporate
+C0076,Devin Wright,Consumer
+C0077,Rowan Wright,Small Business
+C0078,Finley Garcia,Consumer
+C0079,Sage Hall,Consumer
+C0080,Rowan Young,Small Business
+C0081,Riley Young,Corporate
+C0082,Taylor Patel,Consumer
+C0083,Logan Patel,Consumer
+C0084,Skyler Anderson,Consumer
+C0085,Morgan Wilson,Consumer
+C0086,Casey Kim,Consumer
+C0087,Casey Nguyen,Consumer
+C0088,Devin Walker,Consumer
+C0089,Parker Walker,Consumer
+C0090,Taylor Smith,Consumer
+C0091,Sage Garcia,Consumer
+C0092,Kai Smith,Consumer
+C0093,Drew Davis,Corporate
+C0094,Harper Hall,Consumer
+C0095,Riley Chen,Consumer
+C0096,Logan Walker,Consumer
+C0097,Quinn Davis,Small Business
+C0098,Jordan Nguyen,Consumer
+C0099,Harper Martinez,Corporate
+C0100,Morgan Smith,Consumer
+C0101,Taylor Hall,Small Business
+C0102,Skyler Reed,Consumer
+C0103,Sage Brown,Corporate
+C0104,Casey Wright,Corporate
+C0105,Jordan Davis,Small Business
+C0106,Drew Patel,Consumer
+C0107,Sage Wilson,Consumer
+C0108,Sage Smith,Consumer
+C0109,Logan Brown,Small Business
+C0110,Harper Nguyen,Consumer
+C0111,Finley Reed,Consumer
+C0112,Skyler Garcia,Consumer
+C0113,Kai Johnson,Consumer
+C0114,Reese Patel,Small Business
+C0115,Emerson Reed,Corporate
+C0116,Kai Nguyen,Small Business
+C0117,Rowan Hall,Consumer
+C0118,Morgan Young,Consumer
+C0119,Finley Hall,Corporate
+C0120,Hayden Lopez,Corporate
+C0121,Quinn Lopez,Consumer
+C0122,Emerson Murphy,Corporate
+C0123,Harper Murphy,Consumer
+C0124,Casey Patel,Corporate
+C0125,Hayden Anderson,Consumer
+C0126,Hayden Patel,Consumer
+C0127,Kai Kim,Consumer
+C0128,Taylor Wright,Consumer
+C0129,Reese Smith,Consumer
+C0130,Taylor Anderson,Consumer
+C0131,Skyler Murphy,Consumer
+C0132,Morgan Walker,Corporate
+C0133,Riley Hall,Small Business
+C0134,Emerson Chen,Consumer
+C0135,Finley Chen,Consumer
+C0136,Parker Khan,Consumer
+C0137,Riley Brown,Small Business
+C0138,Avery Kim,Consumer
+C0139,Casey Hall,Corporate
+C0140,Rowan Chen,Consumer
+C0141,Logan Wilson,Small Business
+C0142,Casey Khan,Small Business
+C0143,Finley Young,Consumer
+C0144,Jordan Reed,Consumer
+C0145,Riley Kim,Consumer
+C0146,Quinn Chen,Corporate
+C0147,Emerson Walker,Corporate
+C0148,Hayden Hall,Corporate
+C0149,Quinn Brown,Consumer
+C0150,Devin Hall,Consumer
+C0151,Morgan Brown,Small Business
+C0152,Avery Smith,Corporate
+C0153,Drew Lopez,Consumer
+C0154,Drew Nguyen,Corporate
+C0155,Quinn Khan,Consumer
+C0156,Riley Khan,Consumer
+C0157,Emerson Davis,Consumer
+C0158,Emerson Brown,Consumer
+C0159,Jordan Walker,Small Business
+C0160,Hayden Martinez,Consumer
+C0161,Hayden Wright,Small Business
+C0162,Parker Lopez,Corporate
+C0163,Sage Walker,Consumer
+C0164,Drew Murphy,Consumer
+C0165,Sage Nguyen,Small Business
+C0166,Quinn Anderson,Consumer
+C0167,Finley Davis,Consumer
+C0168,Hayden Johnson,Consumer
+C0169,Devin Brown,Consumer
+C0170,Devin Chen,Consumer
+C0171,Hayden Chen,Small Business
+C0172,Avery Garcia,Small Business
+C0173,Riley Wilson,Corporate
+C0174,Harper Smith,Consumer
+C0175,Emerson Martinez,Consumer
+C0176,Skyler Davis,Consumer
+C0177,Logan Nguyen,Small Business
+C0178,Jordan Smith,Small Business
+C0179,Drew Kim,Consumer
+C0180,Devin Lopez,Consumer
